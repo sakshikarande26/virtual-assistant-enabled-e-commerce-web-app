@@ -1,0 +1,5 @@
+# System Requirements
+
+- Web Server (e.g., Apache, Nginx)
+- PHP
+- MySQL
